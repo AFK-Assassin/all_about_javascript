@@ -62,18 +62,9 @@ html,body{
     border: none;
     border-radius: 15px;
     cursor: pointer;
-    width: 40%;
+    width: 50%;
     font-size: 13px;
     font-weight: 600;
 }
-#card .remove {
-    padding: 12px;
-    background-color: rgba(128, 128, 128, 0.336);
-    border: none;
-    border-radius: 15px;
-    cursor: pointer;
-    width: 40%;
-    font-size: 13px;
-    font-weight: 600;
-}
+
 
